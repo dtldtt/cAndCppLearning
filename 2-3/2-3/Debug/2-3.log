@@ -1,0 +1,7 @@
+﻿  main.cpp
+f:\dtl c&c++ language\c++review\2-3\2-3\main.cpp(25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\dtl c&c++ language\c++review\2-3\2-3\main.cpp(26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Employee.cpp
+  正在生成代码...
+  2-3.vcxproj -> F:\DTL C&C++ Language\c++review\2-3\Debug\2-3.exe
+  2-3.vcxproj -> F:\DTL C&C++ Language\c++review\2-3\Debug\2-3.pdb (Full PDB)
