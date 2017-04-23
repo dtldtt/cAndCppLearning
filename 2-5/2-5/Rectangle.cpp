@@ -2,27 +2,27 @@
 #include<iostream>
 using namespace std;
 
-Rectangle::Rectangle(float len /* = 1 */, float wid /* = 1 */) {
+Rectangle::Rectangle(double len /* = 1 */, double wid /* = 1 */) {
 	setLength(len);
 	setWidth(wid);
 }
-void Rectangle::setLength(float len) {
-	if (len > 20 || len < 0) len = 1;
+void Rectangle::setLength(double len) {
+	if (len >= 20 || len <= 0) len = 1;
 	length = len;
 }
-void Rectangle::setWidth(float wid) {
-	if (wid > 20 || wid < 0) wid = 1;
+void Rectangle::setWidth(double wid) {
+	if (wid >= 20 || wid <= 0) wid = 1;
 	width = wid;
 }
-float Rectangle::getLength() {
+double Rectangle::getLength() {
 	return length;
 }
-float Rectangle::getWidth() {
+double Rectangle::getWidth() {
 	return width;
 }
-float Rectangle::perimeter() {
+double Rectangle::perimeter() {
 	return 2 * (width + length);
 }
-float Rectangle::area() {
+double Rectangle::area() {
 	return width*length;
 }

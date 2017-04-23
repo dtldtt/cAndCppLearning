@@ -148,7 +148,6 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Rectangle.cpp" />
-    <ClCompile Include="submit.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Rectangle.h" />

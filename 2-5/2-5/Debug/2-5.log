@@ -1,7 +1,7 @@
 ﻿  Rectangle.cpp
-  main.cpp
-f:\dtl c&c++ language\c++review\2-5\2-5\main.cpp(14): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-f:\dtl c&c++ language\c++review\2-5\2-5\main.cpp(15): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
   正在生成代码...
-  2-5.vcxproj -> F:\DTL C&C++ Language\c++review\2-5\Debug\2-5.exe
-  2-5.vcxproj -> F:\DTL C&C++ Language\c++review\2-5\Debug\2-5.pdb (Full PDB)
+  正在编译...
+  main.cpp
+  正在生成代码...
+  2-5.vcxproj -> F:\DTL-C&C++ Language\c++review\2-5\Debug\2-5.exe
+  2-5.vcxproj -> F:\DTL-C&C++ Language\c++review\2-5\Debug\2-5.pdb (Full PDB)
